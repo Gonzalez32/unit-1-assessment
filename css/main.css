@@ -1,0 +1,22 @@
+#div {
+    /* display: flex; */
+    text-align: center;
+    grid-column: auto;
+    flex-wrap: wrap;
+}
+
+h1 {
+    text-align: center;
+}
+
+#renderNumber {
+    text-align: center;
+}
+
+#inputNumber {
+    text-align: center;
+}
+
+/* #plus {
+    
+} */
